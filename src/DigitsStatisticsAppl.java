@@ -6,7 +6,7 @@ public class DigitsStatisticsAppl {
 	public static void main(String[] args) {
 		displayDigitsStatistics();
 	}
-
+// unnecessary comment added
 	private static void displayDigitsStatistics() {
 		new Random()
 		.ints(1000000, 1, Integer.MAX_VALUE)
